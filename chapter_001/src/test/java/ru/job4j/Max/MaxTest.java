@@ -16,7 +16,7 @@ import static org.junit.Assert.assertThat;
 public class MaxTest {
 
 /**
- * Test for add method.
+ * Test method.
  */
 
 @Test
@@ -27,7 +27,7 @@ public void whenFirstLessThanSecond() {
 }
 
 /**
- * Test for add method.
+ * Test method.
  */
 
 @Test
