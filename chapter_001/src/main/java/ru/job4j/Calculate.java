@@ -1,4 +1,4 @@
-﻿package ru.job4j;
+package ru.job4j;
 
 /**
  * Class Класс для вычисление арифметических операций + - * / ^.
@@ -10,14 +10,13 @@
 
 
 public class Calculate {
+/**
+  * Конструктор, вывод строки в консоль.
+  * @param args - arg.
+  */
 
-/** 
- * Конструктор, вывод строки в консоль.
- * @param args - arg.
- */
+public static void main(String[] args) {
+System.out.println("Hello World");
+	}
 
-	public static void main(String[] args) {
-			System.out.println("Hello World");
-		}	
-	
 }

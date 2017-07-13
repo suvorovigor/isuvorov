@@ -1,8 +1,8 @@
 /**
-* Package for calculate task.
+* Package for finding max value.
 *
 * @author Igor Suvorov (mailto:parsentev@yandex.ru)
 * @version $Id$
 * @since 0.1
 */
-package ru.job4j.calculator;
+package ru.job4j.max;

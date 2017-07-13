@@ -4,6 +4,7 @@ import org.junit.Test;
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;
+
 /**
 * Test.
 *
@@ -17,6 +18,7 @@ public class CalculatorTest {
 	/**
  	 * Test for add method.
  	 */
+
      @Test
     public void whenAddOnePlusOneThenTwo() {
         Calculator calc = new Calculator();
@@ -29,6 +31,7 @@ public class CalculatorTest {
     /**
  	 * Test for subtract method.
  	 */
+
     @Test
     public void whenSubtractOneFromOneThenZero() {
         Calculator calc = new Calculator();
@@ -41,6 +44,7 @@ public class CalculatorTest {
     /**
  	 * Test for div method.
  	 */
+
     @Test
     public void whenDivOneToOneThenOne() {
         Calculator calc = new Calculator();
@@ -53,7 +57,8 @@ public class CalculatorTest {
     /**
  	 * Test for multiple method.
  	 */
-    @Test
+
+   @Test
     public void whenMultipleOneTwoOneThenOne() {
         Calculator calc = new Calculator();
         calc.add(1D, 1D);
