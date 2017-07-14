@@ -59,7 +59,7 @@ public class CalculatorTest {
  	 */
 
    @Test
-    public void whenMultipleOneTwoOneThenOne() {
+    public void whenMultipleOneToOneThenOne() {
         Calculator calc = new Calculator();
         calc.add(1D, 1D);
         double result = calc.getResult();

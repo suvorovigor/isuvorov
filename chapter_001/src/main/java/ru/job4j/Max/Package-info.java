@@ -1,7 +1,7 @@
 /**
 * Package for finding max value.
 *
-* @author Igor Suvorov (mailto:parsentev@yandex.ru)
+* @author Igor Suvorov (mailto:Suvor_97@mail.ru)
 * @version $Id$
 * @since 0.1
 */
